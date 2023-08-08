@@ -1,0 +1,166 @@
+{
+  "students": [
+    {
+      "name": "John Doe",
+      "university": "Example University",
+      "major": "Computer Science",
+      "student_id": "123456789",
+      "grades": {
+        "subjects": [
+          {
+            "name": "mathematics",
+            "score": 80
+          },
+          {
+            "name": "coumputer_science",
+            "score": 85
+          },
+          {
+            "name": "physics",
+            "score": 75
+          },
+          {
+            "name": "english",
+            "score": 90
+          },
+          {
+            "name": "history",
+            "score": 99
+          }
+        ]
+      },
+      "attendance": {
+        "subjects": [
+          {
+            "name": "mathematics",
+            "score": 90
+          },
+          {
+            "name": "computer_science",
+            "score": 95
+          },
+          {
+            "name": "physics",
+            "score": 85
+          },
+          {
+            "name": "english",
+            "score": 100
+          },
+          {
+            "name": "history",
+            "score": 75
+          }
+        ]
+      }
+    },
+    {
+      "name": "Jane Smith",
+      "university": "Example University",
+      "major": "Biology",
+      "student_id": "987654321",
+      "grades": {
+        "subjects": [
+          {
+            "name": "biology",
+            "score": 88
+          },
+          {
+            "name": "chemistry",
+            "score": 92
+          },
+          {
+            "name": "mathematics",
+            "score": 85
+          },
+          {
+            "name": "english",
+            "score": 78
+          },
+          {
+            "name": "history",
+            "score": 90
+          }
+        ]
+      },
+      "attendance": {
+        "subjects": [
+          {
+            "name": "biology",
+            "score": 95
+          },
+          {
+            "name": "chemistry",
+            "score": 90
+          },
+          {
+            "name": "mathematics",
+            "score": 80
+          },
+          {
+            "name": "english",
+            "score": 85
+          },
+          {
+            "name": "history",
+            "score": 100
+          }
+        ]
+      }
+    },
+    {
+      "name": "Alex Johnson",
+      "university": "Example University",
+      "major": "Economics",
+      "student_id": "567891234",
+      "grades": {
+        "subjects": [
+          {
+            "name": "economics",
+            "score": 83
+          },
+          {
+            "name": "chemistry",
+            "score": 90
+          },
+          {
+            "name": "physics",
+            "score": 80
+          },
+          {
+            "name": "english",
+            "score": 88
+          },
+          {
+            "name": "history",
+            "score": 70
+          }
+        ]
+      },
+      "attendance": {
+        "subjects": [
+          {
+            "name": "biology",
+            "score": 90
+          },
+          {
+            "name": "chemistry",
+            "score": 98
+          },
+          {
+            "name": "physics",
+            "score": 82
+          },
+          {
+            "name": "english",
+            "score": 77
+          },
+          {
+            "name": "history",
+            "score": 98
+          }
+        ]
+      }
+    }
+  ]
+}
